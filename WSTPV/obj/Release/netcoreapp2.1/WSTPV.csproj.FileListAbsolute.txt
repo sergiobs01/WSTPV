@@ -1,0 +1,53 @@
+D:\Users\Practicas05\Desktop\WSTPV\WSTPV\bin\Release\netcoreapp2.1\WSTPV.deps.json
+D:\Users\Practicas05\Desktop\WSTPV\WSTPV\bin\Release\netcoreapp2.1\WSTPV.runtimeconfig.json
+D:\Users\Practicas05\Desktop\WSTPV\WSTPV\bin\Release\netcoreapp2.1\WSTPV.runtimeconfig.dev.json
+D:\Users\Practicas05\Desktop\WSTPV\WSTPV\bin\Release\netcoreapp2.1\WSTPV.dll
+D:\Users\Practicas05\Desktop\WSTPV\WSTPV\bin\Release\netcoreapp2.1\WSTPV.pdb
+D:\Users\Practicas05\Desktop\WSTPV\WSTPV\obj\Release\netcoreapp2.1\WSTPV.csprojAssemblyReference.cache
+D:\Users\Practicas05\Desktop\WSTPV\WSTPV\obj\Release\netcoreapp2.1\WSTPV.csproj.CoreCompileInputs.cache
+D:\Users\Practicas05\Desktop\WSTPV\WSTPV\obj\Release\netcoreapp2.1\WSTPV.RazorAssemblyInfo.cache
+D:\Users\Practicas05\Desktop\WSTPV\WSTPV\obj\Release\netcoreapp2.1\WSTPV.RazorAssemblyInfo.cs
+D:\Users\Practicas05\Desktop\WSTPV\WSTPV\obj\Release\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+D:\Users\Practicas05\Desktop\WSTPV\WSTPV\obj\Release\netcoreapp2.1\WSTPV.AssemblyInfoInputs.cache
+D:\Users\Practicas05\Desktop\WSTPV\WSTPV\obj\Release\netcoreapp2.1\WSTPV.AssemblyInfo.cs
+D:\Users\Practicas05\Desktop\WSTPV\WSTPV\obj\Release\netcoreapp2.1\WSTPV.RazorTargetAssemblyInfo.cache
+D:\Users\Practicas05\Desktop\WSTPV\WSTPV\obj\Release\netcoreapp2.1\WSTPV.dll
+D:\Users\Practicas05\Desktop\WSTPV\WSTPV\obj\Release\netcoreapp2.1\WSTPV.pdb
+C:\Users\Sergio\Downloads\TPV\WSTPV\WSTPV\bin\Release\netcoreapp2.1\appsettings.Development.json
+C:\Users\Sergio\Downloads\TPV\WSTPV\WSTPV\bin\Release\netcoreapp2.1\appsettings.json
+C:\Users\Sergio\Downloads\TPV\WSTPV\WSTPV\bin\Release\netcoreapp2.1\WSTPV.deps.json
+C:\Users\Sergio\Downloads\TPV\WSTPV\WSTPV\bin\Release\netcoreapp2.1\WSTPV.runtimeconfig.json
+C:\Users\Sergio\Downloads\TPV\WSTPV\WSTPV\bin\Release\netcoreapp2.1\WSTPV.runtimeconfig.dev.json
+C:\Users\Sergio\Downloads\TPV\WSTPV\WSTPV\bin\Release\netcoreapp2.1\WSTPV.dll
+C:\Users\Sergio\Downloads\TPV\WSTPV\WSTPV\bin\Release\netcoreapp2.1\WSTPV.pdb
+C:\Users\Sergio\Downloads\TPV\WSTPV\WSTPV\obj\Release\netcoreapp2.1\WSTPV.csproj.AssemblyReference.cache
+C:\Users\Sergio\Downloads\TPV\WSTPV\WSTPV\obj\Release\netcoreapp2.1\WSTPV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergio\Downloads\TPV\WSTPV\WSTPV\obj\Release\netcoreapp2.1\WSTPV.AssemblyInfoInputs.cache
+C:\Users\Sergio\Downloads\TPV\WSTPV\WSTPV\obj\Release\netcoreapp2.1\WSTPV.AssemblyInfo.cs
+C:\Users\Sergio\Downloads\TPV\WSTPV\WSTPV\obj\Release\netcoreapp2.1\WSTPV.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\Downloads\TPV\WSTPV\WSTPV\obj\Release\netcoreapp2.1\WSTPV.RazorAssemblyInfo.cache
+C:\Users\Sergio\Downloads\TPV\WSTPV\WSTPV\obj\Release\netcoreapp2.1\WSTPV.RazorAssemblyInfo.cs
+C:\Users\Sergio\Downloads\TPV\WSTPV\WSTPV\obj\Release\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\Sergio\Downloads\TPV\WSTPV\WSTPV\obj\Release\netcoreapp2.1\WSTPV.RazorTargetAssemblyInfo.cache
+C:\Users\Sergio\Downloads\TPV\WSTPV\WSTPV\obj\Release\netcoreapp2.1\WSTPV.dll
+C:\Users\Sergio\Downloads\TPV\WSTPV\WSTPV\obj\Release\netcoreapp2.1\WSTPV.pdb
+C:\Users\Sergio\Downloads\TPV\WSTPV\WSTPV\obj\Release\netcoreapp2.1\WSTPV.genruntimeconfig.cache
+C:\Users\Sergio\Downloads\Servicios Proyecto Terminados\WSTPV\WSTPV\bin\Release\netcoreapp2.1\appsettings.Development.json
+C:\Users\Sergio\Downloads\Servicios Proyecto Terminados\WSTPV\WSTPV\bin\Release\netcoreapp2.1\appsettings.json
+C:\Users\Sergio\Downloads\Servicios Proyecto Terminados\WSTPV\WSTPV\bin\Release\netcoreapp2.1\WSTPV.deps.json
+C:\Users\Sergio\Downloads\Servicios Proyecto Terminados\WSTPV\WSTPV\bin\Release\netcoreapp2.1\WSTPV.runtimeconfig.json
+C:\Users\Sergio\Downloads\Servicios Proyecto Terminados\WSTPV\WSTPV\bin\Release\netcoreapp2.1\WSTPV.runtimeconfig.dev.json
+C:\Users\Sergio\Downloads\Servicios Proyecto Terminados\WSTPV\WSTPV\bin\Release\netcoreapp2.1\WSTPV.dll
+C:\Users\Sergio\Downloads\Servicios Proyecto Terminados\WSTPV\WSTPV\bin\Release\netcoreapp2.1\WSTPV.pdb
+C:\Users\Sergio\Downloads\Servicios Proyecto Terminados\WSTPV\WSTPV\obj\Release\netcoreapp2.1\WSTPV.csproj.AssemblyReference.cache
+C:\Users\Sergio\Downloads\Servicios Proyecto Terminados\WSTPV\WSTPV\obj\Release\netcoreapp2.1\WSTPV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergio\Downloads\Servicios Proyecto Terminados\WSTPV\WSTPV\obj\Release\netcoreapp2.1\WSTPV.AssemblyInfoInputs.cache
+C:\Users\Sergio\Downloads\Servicios Proyecto Terminados\WSTPV\WSTPV\obj\Release\netcoreapp2.1\WSTPV.AssemblyInfo.cs
+C:\Users\Sergio\Downloads\Servicios Proyecto Terminados\WSTPV\WSTPV\obj\Release\netcoreapp2.1\WSTPV.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\Downloads\Servicios Proyecto Terminados\WSTPV\WSTPV\obj\Release\netcoreapp2.1\WSTPV.RazorAssemblyInfo.cache
+C:\Users\Sergio\Downloads\Servicios Proyecto Terminados\WSTPV\WSTPV\obj\Release\netcoreapp2.1\WSTPV.RazorAssemblyInfo.cs
+C:\Users\Sergio\Downloads\Servicios Proyecto Terminados\WSTPV\WSTPV\obj\Release\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\Sergio\Downloads\Servicios Proyecto Terminados\WSTPV\WSTPV\obj\Release\netcoreapp2.1\WSTPV.RazorTargetAssemblyInfo.cache
+C:\Users\Sergio\Downloads\Servicios Proyecto Terminados\WSTPV\WSTPV\obj\Release\netcoreapp2.1\WSTPV.dll
+C:\Users\Sergio\Downloads\Servicios Proyecto Terminados\WSTPV\WSTPV\obj\Release\netcoreapp2.1\WSTPV.pdb
+C:\Users\Sergio\Downloads\Servicios Proyecto Terminados\WSTPV\WSTPV\obj\Release\netcoreapp2.1\WSTPV.genruntimeconfig.cache
